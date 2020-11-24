@@ -1,4 +1,4 @@
-# C-Name_Changer
+# Name Changer for LosslessCut
 LosslessCut으로 편집한 영상들 이름 변경하기가 귀찮아서 만든 프로그램
 
 ![image](https://user-images.githubusercontent.com/66747535/100086148-54ee3e00-2e90-11eb-9e9f-c6b13a285e1c.png)
